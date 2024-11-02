@@ -6,11 +6,16 @@
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h2>🚀 About Me</h2>
 
 <ul>
   <li>🔭 <strong>Currently working on: Ecommerce Project</li>
   <li>🌱 <strong>Currently learning:</strong> DSA</li>
+  <li>📖 <strong>In my free time:</strong> I solve problems on Leetcode and read tech articles</li>
 </ul> 
 
 ---
