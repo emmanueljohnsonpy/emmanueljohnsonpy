@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Emmanuel Johnson!</h1>
+<h1 align="center"> Hai, I'm Emmanuel Johnson</h1>
 
 <p align="center">
   Welcome to my GitHub! I’m a passionate developer with expertise in <b>Web Development Using Python Django + React</b>. I’m constantly exploring new technologies and pushing my limits in software development.
@@ -24,9 +24,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/DSA-0A66C2?style=for-the-badge&logo=data-structure&logoColor=white" alt="Data Structures & Algorithms">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
 ---
