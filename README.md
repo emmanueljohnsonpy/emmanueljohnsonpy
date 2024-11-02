@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hello, I'm Emmanuel Johnson!</h1>
 
 <p align="center">
-  <img src="https://example.com/banner.png" alt="Banner showcasing your expertise or a cool graphic">
-</p>
-
-<p align="center">
   Welcome to my GitHub! I’m a passionate developer with expertise in <b>Web Development Using Python Django + React</b>. I’m constantly exploring new technologies and pushing my limits in software development.
 </p>
 
@@ -26,10 +22,10 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
 ---
