@@ -52,6 +52,12 @@
 
 ---
 
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=emmanueljohnsonpy&color=blue)
+</p>
+
+---
+
 <h2>🎯 My Goals</h2>
 
 <ul>
