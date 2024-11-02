@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hello, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hello, I'm Emmanuel Johnson!</h1>
 
 <p align="center">
   <img src="https://example.com/banner.png" alt="Banner showcasing your expertise or a cool graphic">
 </p>
 
 <p align="center">
-  Welcome to my GitHub! I’m a passionate developer with expertise in <b>[Your Technologies/Skills, e.g., Python, Java, Django, Web Development, etc.]</b>. I’m constantly exploring new technologies and pushing my limits in software development.
+  Welcome to my GitHub! I’m a passionate developer with expertise in <b>Web Development Using Python Django + React</b>. I’m constantly exploring new technologies and pushing my limits in software development.
 </p>
 
 ---
@@ -13,12 +13,12 @@
 <h2>🚀 About Me</h2>
 
 <ul>
-  <li>🔭 <strong>Currently working on:</strong> [Your Current Project]</li>
-  <li>🌱 <strong>Currently learning:</strong> [New Skills or Technologies]</li>
-  <li>💬 <strong>Ask me about:</strong> [Topics you're comfortable discussing]</li>
-  <li>📫 <strong>How to reach me:</strong> [Your Email / LinkedIn / Twitter]</li>
-  <li>⚡ <strong>Fun fact:</strong> [Interesting fact about you]</li>
-</ul>
+  <li>🔭 <strong>Currently working on: Ecommerce Project</li>
+  <li>🌱 <strong>Currently learning:</strong> DSA</li>
+<!--   <li>💬 <strong>Ask me about:</strong> Web Development</li>
+<!--   <li>📫 <strong>How to reach me:</strong> [Your Email / LinkedIn / Twitter]</li> -->
+<!--   <li>⚡ <strong>Fun fact:</strong> [Interesting fact about you]</li> -->
+</ul> -->
 
 ---
 
@@ -46,12 +46,12 @@
 <h2>🌐 Connect with Me</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/yourprofile/">
+  <a href="[https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/emmanuel-johnson-a36b6b2b3/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/yourhandle">
+<!--   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -60,7 +60,7 @@
 
 <ul>
   <li>Contribute to open-source projects regularly</li>
-  <li>Complete certifications in [Technology/Skill, e.g., AI, Machine Learning]</li>
+  <li>Complete certifications in Machine Learning, AI</li>
   <li>Work on exciting projects that make an impact!</li>
 </ul>
 
