@@ -18,7 +18,7 @@
 <!--   <li>💬 <strong>Ask me about:</strong> Web Development</li>
 <!--   <li>📫 <strong>How to reach me:</strong> [Your Email / LinkedIn / Twitter]</li> -->
 <!--   <li>⚡ <strong>Fun fact:</strong> [Interesting fact about you]</li> -->
-</ul> -->
+</ul> 
 
 ---
 
@@ -46,7 +46,7 @@
 <h2>🌐 Connect with Me</h2>
 
 <p>
-  <a href="[https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/emmanuel-johnson-a36b6b2b3/)">
+  <a href="https://www.linkedin.com/in/emmanuel-johnson-a36b6b2b3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 <!--   <a href="https://twitter.com/yourhandle">
