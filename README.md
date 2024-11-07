@@ -47,6 +47,9 @@
   <a href="https://www.linkedin.com/in/emmanuel-johnson-a36b6b2b3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="https://leetcode.com/u/emmanuel011/">
+    <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode">
+  </a>
 </p>
 
 ---
