@@ -1,8 +1,7 @@
 <h1 align="center"> Hai, I'm Emmanuel Johnson</h1>
 
 <p align="center">
-  Welcome to my GitHub! I’m a passionate developer with expertise in <b>Python Full Stack Developer</b>. I’m constantly exploring new technologies and pushing my limits in software development.
-</p>
+  Welcome to my GitHub! I'm a passionate Python Full Stack Developer with expertise in both front-end and back-end technologies. I’m constantly exploring new tools and frameworks, and I’m always pushing my limits in software development.</p>
 
 ---
 
