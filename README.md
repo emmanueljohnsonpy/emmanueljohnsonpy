@@ -5,9 +5,7 @@
 
 ---
 
-<!-- ![Your GIF](https://i.imgur.com/U3dTxBg.gif) -->
-
-![Your GIF](https://i.imgur.com/xyz123.gif)
+![Your GIF](https://i.imgur.com/U3dTxBg.gif) 
 
 
 
