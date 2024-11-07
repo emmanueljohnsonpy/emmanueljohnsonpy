@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <iframe src="https://giphy.com/embed/qnodoPFBwbJOjQ0B4z" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/qnodoPFBwbJOjQ0B4z">via GIPHY</a></p>
 </div>
 
 <h2>🚀 About Me</h2>
