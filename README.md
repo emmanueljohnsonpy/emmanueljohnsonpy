@@ -6,10 +6,10 @@
 
 ---
 
-
-<div align="center">
   ![Giphy GIF](https://media.giphy.com/media/9az09tlYyYNfq/giphy.gif)
-</div>
+
+
+---
 <h2>🚀 About Me</h2>
 
 <ul>
