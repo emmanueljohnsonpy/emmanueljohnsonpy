@@ -1,7 +1,7 @@
 <h1 align="center"> Hai, I'm Emmanuel Johnson</h1>
 
 <p align="center">
-  Welcome to my GitHub! I’m a passionate developer with expertise in <b>Web Development Using Python Django + React</b>. I’m constantly exploring new technologies and pushing my limits in software development.
+  Welcome to my GitHub! I’m a passionate developer with expertise in <b>Python Full Stack Developer</b>. I’m constantly exploring new technologies and pushing my limits in software development.
 </p>
 
 ---
