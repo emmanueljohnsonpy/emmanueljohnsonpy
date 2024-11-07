@@ -5,7 +5,7 @@
 
 ---
 
-<img src="https://media.giphy.com/media/9az09tlYyYNfq/giphy.gif" style="width: 100%;">
+<img src="[https://media.giphy.com/media/9az09tlYyYNfq/giphy.gif](https://i.pinimg.com/originals/f7/81/2e/f7812e1249081221bb80abb048698308.gif)">
 
 
 ---
