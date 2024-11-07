@@ -5,7 +5,7 @@
 
 ---
 
-  <span style="align-center: 60px;">![Giphy GIF](https://media.giphy.com/media/9az09tlYyYNfq/giphy.gif)</span>
+<img src="https://media.giphy.com/media/9az09tlYyYNfq/giphy.gif" style="width: 100%;">
 
 
 ---
