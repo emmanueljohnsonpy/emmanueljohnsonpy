@@ -1,28 +1,30 @@
-<h1 align="center"> Hai, I'm Emmanuel Johnson</h1>
+<h1 align="center">Hi, I'm Emmanuel Johnson</h1>
 
 <p align="center">
-  Welcome to my GitHub! I'm a passionate Python Full Stack Developer with expertise in both front-end and back-end technologies. I’m constantly exploring new tools and frameworks, and I’m always pushing my limits in software development.</p>
+  Welcome to my GitHub! I'm a passionate Python Full Stack Developer with expertise in both front-end and back-end technologies. I’m constantly exploring new tools and frameworks, and I’m always pushing my limits in software development.
+</p>
 
 ---
 
-![Your GIF](https://i.imgur.com/U3dTxBg.gif) 
-
-
+<p align="center">
+  <img src="https://i.imgur.com/U3dTxBg.gif" alt="Your GIF" />
+</p>
 
 ---
-<h2>🚀 About Me</h2>
+
+<h2 align="center">🚀 About Me</h2>
 
 <ul>
-  <li>🔭 <strong>Currently working on: Ecommerce Project</li>
+  <li>🔭 <strong>Currently working on:</strong> Ecommerce Project</li>
   <li>🌱 <strong>Currently learning:</strong> DSA</li>
   <li>📖 <strong>In my free time:</strong> I solve problems on Leetcode and read tech articles</li>
 </ul> 
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -39,9 +41,9 @@
 
 ---
 
-<h2>🌐 Connect with Me</h2>
+<h2 align="center">🌐 Connect with Me</h2>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/emmanuel-johnson-a36b6b2b3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -49,9 +51,9 @@
 
 ---
 
-<h2>🎯 My Goals</h2>
+<h2 align="center">🎯 My Goals</h2>
 
-<ul>
+<ul align="center">
   <li>Contribute to open-source projects regularly</li>
   <li>Complete certifications in Machine Learning, AI</li>
   <li>Work on exciting projects that make an impact!</li>
