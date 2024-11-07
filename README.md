@@ -5,7 +5,7 @@
 
 ---
 
-  <span style="padding-left: 50px;">![Giphy GIF](https://media.giphy.com/media/9az09tlYyYNfq/giphy.gif)</span>
+  <span style="align-center: 60px;">![Giphy GIF](https://media.giphy.com/media/9az09tlYyYNfq/giphy.gif)</span>
 
 
 ---
