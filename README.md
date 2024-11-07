@@ -7,7 +7,7 @@
 
 <!-- ![Your GIF](https://i.imgur.com/U3dTxBg.gif) -->
 
-![Your GIF](https://i.imgur.com/a/R2ntMqx.gif)
+![Your GIF](https://i.imgur.com/xyz123.gif)
 
 
 
