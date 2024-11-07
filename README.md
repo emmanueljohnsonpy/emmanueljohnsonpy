@@ -6,9 +6,8 @@
 
 ---
 
-<div align="center">
-  ![Giphy GIF](https://media.giphy.com/media/qnodoPFBwbJOjQ0B4z/giphy.gif)
-</div>
+![Giphy GIF](https://media.giphy.com/media/qnodoPFBwbJOjQ0B4z/giphy.gif)
+
 
 
 <h2>🚀 About Me</h2>
