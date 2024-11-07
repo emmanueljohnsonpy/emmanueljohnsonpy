@@ -14,11 +14,11 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<ul>
+<ul align="center" style="list-style-type: none; padding: 0;">
   <li>🔭 <strong>Currently working on:</strong> Ecommerce Project</li>
   <li>🌱 <strong>Currently learning:</strong> DSA</li>
   <li>📖 <strong>In my free time:</strong> I solve problems on Leetcode and read tech articles</li>
-</ul> 
+</ul>
 
 ---
 
