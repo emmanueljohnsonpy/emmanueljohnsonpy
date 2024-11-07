@@ -7,7 +7,7 @@
 ---
 
 
-![Giphy GIF]([https://.giphy.com/media/qnodoPFBwbJOjQ0B4z/giphy.gif](https://giphy.com/embed/zpL3kAH0f1Cxcl0TMH"))
+![Giphy GIF](https://media.giphy.com/media/qnodoPFBwbJOjQ0B4z/giphy.gif)
 
 <h2>🚀 About Me</h2>
 
