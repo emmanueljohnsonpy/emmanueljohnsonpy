@@ -7,8 +7,9 @@
 ---
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/qnodoPFBwbJOjQ0B4z" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/qnodoPFBwbJOjQ0B4z">via GIPHY</a></p>
+  ![Giphy GIF](https://media.giphy.com/media/qnodoPFBwbJOjQ0B4z/giphy.gif)
 </div>
+
 
 <h2>🚀 About Me</h2>
 
