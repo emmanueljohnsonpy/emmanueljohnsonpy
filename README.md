@@ -19,7 +19,6 @@
   <li>🌱 <strong>Currently learning:</strong> Data Structures and Algorithms (DSA)</li>
   <li>📖 <strong>In my free time:</strong> I solve problems on 
     <a href="https://leetcode.com/u/emmanuel011/" target="_blank">LeetCode</a> 
-    <img src="https://img.shields.io/badge/Leetcode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="Leetcode Badge">
     and read tech articles
   </li>
 </ul>
