@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/U3dTxBg.gif" alt="Your GIF" />
+  <img src="https://i.imgur.com/Ifry5ba.gif" alt="Your GIF" />
 </p>
 
 ---
