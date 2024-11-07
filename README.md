@@ -6,7 +6,9 @@
 
 ---
 
-![Giphy GIF](https://media.giphy.com/media/qnodoPFBwbJOjQ0B4z/giphy.gif)
+<p align="center">
+  ![Giphy GIF](https://media.giphy.com/media/qnodoPFBwbJOjQ0B4z/giphy.gif)
+</p>
 
 
 
