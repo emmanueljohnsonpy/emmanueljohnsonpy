@@ -3,7 +3,6 @@
 <p align="center">
   Welcome to my GitHub! I'm a passionate Python Full Stack Developer with expertise in both front-end and back-end technologies. I’m constantly exploring new tools and frameworks, and I’m always pushing my limits in software development.
 </p>
-[![](https://visitcount.itsvg.in/api?id=emmanueljohnsonpy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
