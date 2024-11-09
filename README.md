@@ -2,7 +2,7 @@
   
 # 👨‍💻 Emmanuel Johnson | Full Stack Alchemist
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=435&lines=Building+Digital+Solutions;Crafting+Clean+Code;Transforming+Ideas+into+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=435&lines=Hai,+I'm+Emmanuel+Johnson;)](https://git.io/typing-svg)
 
 ### Turning Coffee into Code, One Commit at a Time ☕
 
@@ -69,7 +69,7 @@ class FullStackDeveloper:
 
 ### "The only way to do great work is to love what you do" - Steve Jobs
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=emmanueljohnsonpy&color=brightgreen&style=flat-square)
 
 *When I'm not coding, you'll find me solving puzzles, reading tech blogs, or exploring new technologies!*
 
