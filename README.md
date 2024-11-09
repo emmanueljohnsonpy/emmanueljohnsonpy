@@ -1,76 +1,68 @@
-<div align="center">
-  
-# 👨‍💻 Emmanuel Johnson | Full Stack Alchemist
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=435&lines=Hai,+I'm+Emmanuel+Johnson;)](https://git.io/typing-svg)
 
-### Turning Coffee into Code, One Commit at a Time ☕
-
-</div>
-
-## 🎯 Current Quest Log
-
-```python
-class FullStackDeveloper:
-    def __init__(self):
-        self.name = "Emmanuel Johnson"
-        self.role = "Python Full Stack Developer"
-        self.current_quest = "Building Next-Gen E-commerce Platform"
-        self.learning = ["DSA 🤓", "System Design 📐", "Cloud Architecture ☁️"]
-        self.daily_routine = ["Code", "Coffee", "LeetCode", "Repeat"]
-    
-    def current_status(self):
-        return "Debugging... Please Wait ⏳"
-```
-
-## 🛠️ Weapon Arsenal
-
-### Frontend Spells
-![HTML5](https://img.shields.io/badge/HTML5-🔥-E34F26?style=for-the-badge&labelColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-💫-1572B6?style=for-the-badge&labelColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-⚡-F7DF1E?style=for-the-badge&labelColor=black)
-![React](https://img.shields.io/badge/React-⚛️-61DAFB?style=for-the-badge&labelColor=black)
-
-### Backend Powers
-![Python](https://img.shields.io/badge/Python-🐍-3776AB?style=for-the-badge&labelColor=black)
-![Django](https://img.shields.io/badge/Django-🎯-092E20?style=for-the-badge&labelColor=black)
-
-### Database Mastery
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-🐘-4169E1?style=for-the-badge&labelColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-🍃-47A248?style=for-the-badge&labelColor=black)
-
-## 📈 Stats Quest
-
-<div align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/emmanuel011?theme=dark&font=Fira%20Code&ext=heatmap)
-
-</div>
-
-## 🎮 Side Quests
-
-- 🚀 Open Source Contribution Journey
-- 📚 Machine Learning & AI Exploration
-- 🌟 Building Personal Tech Blog
-- 🎯 500 LeetCode Problems Challenge
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-johnson-a36b6b2b3/)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-url.com)
-
-</div>
+<p align="center">
+  Welcome to my GitHub! I'm a passionate Python Full Stack Developer with expertise in both front-end and back-end technologies. I’m constantly exploring new tools and frameworks, and I’m always pushing my limits in software development.
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://i.imgur.com/Ifry5ba.gif" alt="Your GIF" />
+</p>
 
-### "The only way to do great work is to love what you do" - Steve Jobs
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=emmanueljohnsonpy&color=brightgreen&style=flat-square)
+<h2 align="center">🚀 About Me</h2>
 
-*When I'm not coding, you'll find me solving puzzles, reading tech blogs, or exploring new technologies!*
+<ul align="center">
+  <li>🔭 <strong>Currently working on:</strong> Ecommerce Project</li>
+  <li>🌱 <strong>Currently learning:</strong> Data Structures and Algorithms (DSA)</li>
+  <li>📖 <strong>In my free time:</strong> I solve problems on 
+    <a href="https://leetcode.com/u/emmanuel011/" target="_blank">LeetCode</a> 
+    and read tech articles
+  </li>
+</ul>
 
-</div>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+</p>
+
+---
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/emmanuel-johnson-a36b6b2b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+---
+
+<h2 align="center">🎯 My Goals</h2>
+
+<ul align="center">
+  <li>Contribute to open-source projects regularly</li>
+  <li>Complete certifications in Machine Learning, AI</li>
+  <li>Work on exciting projects that make an impact!</li>
+</ul>
+
+---
+
+<p align="center">Feel free to explore my repositories and reach out if you want to collaborate or chat about tech! 😊</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=emmanueljohnsonpy&color=blue&style=flat-square)
+
+
