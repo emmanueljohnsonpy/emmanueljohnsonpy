@@ -8,9 +8,6 @@
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="Tech Stack" />
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="50" height="50" />
