@@ -2,11 +2,15 @@
 <p align="center">
   Welcome to my GitHub! I'm a passionate Python Full Stack Developer with expertise in both front-end and back-end technologies. I’m constantly exploring new tools and frameworks, and I’m always pushing my limits in software development.
 </p>
+
 ---
+
 <p align="center">
   <img src="https://i.imgur.com/Ifry5ba.gif" alt="Your GIF" />
 </p>
+
 ---
+
 <h2 align="center">🚀 About Me</h2>
 <ul align="center">
   <li>🔭 <strong>Currently working on:</strong> Ecommerce Project</li>
@@ -16,7 +20,9 @@
     and read tech articles
   </li>
 </ul>
+
 ---
+
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -28,13 +34,16 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 </p>
+
 ---
+
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/emmanuel-johnson-a36b6b2b3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
 ---
 <h2 align="center">🎯 My Goals</h2>
 <ul align="center">
