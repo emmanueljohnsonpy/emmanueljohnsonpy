@@ -69,11 +69,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=435&lines=My+Goals&repeat=false" alt="My Goals Typing SVG" />
 </h2>
 
-<ul style="list-style: none; padding: 0;">
-  <li>🎯 Contribute to open-source projects regularly </li>
-  <li>📚 Complete certifications in Machine Learning, AI</li>
-  <li>💡 Work on exciting projects that make an impact!</li>
-</ul>
+<div align="center">
+  
+🎯 Contribute to open-source projects regularly
+  
+📚 Complete certifications in Machine Learning, AI
+  
+💡 Work on exciting projects that make an impact!
+
+</div>
 
 <hr style="width: 50%; margin: 30px auto;">
 
