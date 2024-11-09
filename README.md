@@ -11,7 +11,7 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=435&lines=About+Me;)](https://git.io/typing-svg)</h2>
 <ul align="center">
   <li>🔭 <strong>Currently working on:</strong> Ecommerce Project</li>
   <li>🌱 <strong>Currently learning:</strong> Data Structures and Algorithms (DSA)</li>
@@ -23,7 +23,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=435&lines=Tech+Stack;)](https://git.io/typing-svg)</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -37,7 +37,7 @@
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=435&lines=Connect,+with+Me;)](https://git.io/typing-svg)</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/emmanuel-johnson-a36b6b2b3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -45,11 +45,16 @@
 </p>
 
 ---
-<h2 align="center">🎯 My Goals</h2>
+
+<h2 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=435&lines=My+Goals;)](https://git.io/typing-svg)</h2>
 <ul align="center">
   <li>Contribute to open-source projects regularly</li>
   <li>Complete certifications in Machine Learning, AI</li>
   <li>Work on exciting projects that make an impact!</li>
 </ul>
+
 ---
+
 <p align="center">Feel free to explore my repositories and reach out if you want to collaborate or chat about tech! 😊</p>
+<p align="center">![Profile Views](https://komarev.com/ghpvc/?username=emmanueljohnsonpy&color=blue&style=flat-square)
+ align it apply good ui</p>
