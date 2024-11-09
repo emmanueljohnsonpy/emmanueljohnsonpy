@@ -19,16 +19,15 @@
 <div align="center">
   <!-- Previous content remains the same -->
 
-  <div align="center" style="display: inline-block; text-align: left;">
-    <ul style="list-style-type: none; margin: 0; padding: 0;">
-      <li>🔭 <strong>Currently working on:</strong> Ecommerce Project</li>
-      <li>🌱 <strong>Currently learning:</strong> Data Structures and Algorithms (DSA)</li>
-      <li>📖 <strong>In my free time:</strong> I solve problems on 
-        <a href="https://leetcode.com/u/emmanuel011/" target="_blank">LeetCode</a> 
-        and read tech articles
-      </li>
-    </ul>
-  </div>
+<div align="center">
+  
+🔭 **Currently working on:** Ecommerce Project
+  
+🌱 **Currently learning:** Data Structures and Algorithms (DSA)
+  
+📖 **In my free time:** I solve problems on [LeetCode](https://leetcode.com/u/emmanuel011/) and read tech articles
+
+</div>
 
   <!-- Rest of the content remains the same -->
 </div>
@@ -71,7 +70,7 @@
 </h2>
 
 <ul style="list-style: none; padding: 0;">
-  <li>🎯 Contribute to open-source projects regularly</li>
+  <li>🎯 Contribute to open-source projects regularly </li>
   <li>📚 Complete certifications in Machine Learning, AI</li>
   <li>💡 Work on exciting projects that make an impact!</li>
 </ul>
