@@ -1,12 +1,16 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=435&lines=Hai%2C+I'm+Emmanuel+Johnson&repeat=false" alt="Typing SVG" />
+<h1 align="center">Hai, I'm Emmanuel Johnson</h1>
 
 <p>
   Welcome to my GitHub! I'm a passionate Python Full Stack Developer with expertise in both front-end and back-end technologies. I'm constantly exploring new tools and frameworks, and I'm always pushing my limits in software development.
 </p>
 
+---
+
 <img src="https://i.imgur.com/Ifry5ba.gif" alt="Coding GIF" width="500"/>
+
+---
 
 <h2>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=435&lines=About+Me&repeat=false" alt="About Me Typing SVG" />
@@ -20,6 +24,8 @@
     and read tech articles
   </li>
 </ul>
+
+---
 
 <h2>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=435&lines=Tech+Stack&repeat=false" alt="Tech Stack Typing SVG" />
@@ -38,6 +44,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
 </p>
 
+---
+
 <h2>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=435&lines=Connect+with+Me&repeat=false" alt="Connect with Me Typing SVG" />
 </h2>
@@ -47,6 +55,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+---
 
 <h2>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=435&lines=My+Goals&repeat=false" alt="My Goals Typing SVG" />
