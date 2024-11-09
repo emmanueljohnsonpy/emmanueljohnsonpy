@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <ul align="center">
   <li>🔭 <strong>Currently working on:</strong> Ecommerce Project</li>
@@ -25,7 +25,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="50" height="50" />
@@ -44,7 +44,7 @@
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center">Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emmanuel-johnson-a36b6b2b3/">
@@ -57,7 +57,7 @@
 
 ---
 
-<h2 align="center">🎯 My Goals</h2>
+<h2 align="center">My Goals</h2>
 
 <ul align="center">
   <li>Contribute to open-source projects regularly</li>
