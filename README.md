@@ -54,7 +54,11 @@
   <a href="https://www.linkedin.com/in/emmanuel-johnson-a36b6b2b3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+  <a href="mailto:emmanueljohnsonpy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
+
 
 ---
 
