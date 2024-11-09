@@ -4,13 +4,13 @@
   Welcome to my GitHub! I'm a passionate Python Full Stack Developer with expertise in both front-end and back-end technologies. I’m constantly exploring new tools and frameworks, and I’m always pushing my limits in software development.
 </p>
 
----
+
 
 <p align="center">
   <img src="https://i.imgur.com/Ifry5ba.gif" alt="Your GIF" />
 </p>
 
----
+
 
 <h2 align="center">About Me</h2>
 
@@ -23,7 +23,7 @@
   </li>
 </ul>
 
----
+
 
 <h2 align="center">Tech Stack</h2>
 
@@ -42,7 +42,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" width="50" height="50" />
 </p>
 
----
+
 
 <h2 align="center">Connect with Me</h2>
 
@@ -55,7 +55,7 @@
   </a>
 </p>
 
----
+
 
 <h2 align="center">My Goals</h2>
 
