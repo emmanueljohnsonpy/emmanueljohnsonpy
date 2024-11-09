@@ -1,10 +1,31 @@
-<h1 align="center">Hi, I'm Emmanuel Johnson</h1>
+<h1 align="center">Hai, I'm Emmanuel Johnson</h1>
 
 <p align="center">
   Welcome to my GitHub! I'm a passionate Python Full Stack Developer with expertise in both front-end and back-end technologies. I’m constantly exploring new tools and frameworks, and I’m always pushing my limits in software development.
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://i.imgur.com/Ifry5ba.gif" alt="Your GIF" />
+</p>
+
+---
+
+<h2 align="center">🚀 About Me</h2>
+
+<ul align="center">
+  <li>🔭 <strong>Currently working on:</strong> Ecommerce Project</li>
+  <li>🌱 <strong>Currently learning:</strong> Data Structures and Algorithms (DSA)</li>
+  <li>📖 <strong>In my free time:</strong> I solve problems on 
+    <a href="https://leetcode.com/u/emmanuel011/" target="_blank">LeetCode</a> 
+    and read tech articles
+  </li>
+</ul>
+
+
+---
+
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -23,31 +44,6 @@
   <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="Mongodb" width="50" height="50" />
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" width="50" height="50" />
 </p>
-
-
-
----
-
-<h2 align="center">🚀 About Me</h2>
-
-<ul align="center">
-  <li>🔭 <strong>Currently working on:</strong> Ecommerce Project</li>
-  <li>🌱 <strong>Currently learning:</strong> Data Structures and Algorithms (DSA)</li>
-  <li>📖 <strong>In my free time:</strong> I solve problems on 
-    <a href="https://leetcode.com/u/emmanuel011/" target="_blank">LeetCode</a> 
-    and read tech articles
-  </li>
-</ul>
-
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  ![Tech Stack](https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png)
-</p>
-
-
 ---
 
 <h2 align="center">🌐 Connect with Me</h2>
