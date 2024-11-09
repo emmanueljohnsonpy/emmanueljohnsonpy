@@ -23,7 +23,6 @@
   </li>
 </ul>
 
-
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
@@ -63,6 +62,8 @@
 
 <p align="center">Feel free to explore my repositories and reach out if you want to collaborate or chat about tech! 😊</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=emmanueljohnsonpy&color=blue&style=flat-square)
+---
 
-
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=emmanueljohnsonpy&color=blue&style=flat-square)
+</p>
