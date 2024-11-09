@@ -1,4 +1,4 @@
-<h1 align="center">Hai, I'm Emmanuel Johnson</h1>
+<h1 align="center">Hi, I'm Emmanuel Johnson</h1>
 
 <p align="center">
   Welcome to my GitHub! I'm a passionate Python Full Stack Developer with expertise in both front-end and back-end technologies. I’m constantly exploring new tools and frameworks, and I’m always pushing my limits in software development.
@@ -23,10 +23,17 @@
   </li>
 </ul>
 
-
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,ts,express" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=aws,firebase,git,react,redux" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postman,figma,mysql,postgresql,nginx" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
