@@ -56,5 +56,7 @@
 ---
 
 <p align="center">Feel free to explore my repositories and reach out if you want to collaborate or chat about tech! 😊</p>
-<p align="center">![Profile Views](https://komarev.com/ghpvc/?username=emmanueljohnsonpy&color=blue&style=flat-square)
- align it apply good ui</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=emmanueljohnsonpy&color=blue&style=flat-square" alt="Profile Views" />
+</p>
