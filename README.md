@@ -16,14 +16,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=435&lines=About+Me&repeat=false" alt="About Me Typing SVG" />
 </h2>
 
-<ul style="list-style: none; padding: 0;">
-  <li>🔭 <strong>Currently working on:</strong> Ecommerce Project</li>
-  <li>🌱 <strong>Currently learning:</strong> Data Structures and Algorithms (DSA)</li>
-  <li>📖 <strong>In my free time:</strong> I solve problems on 
-    <a href="https://leetcode.com/u/emmanuel011/" target="_blank">LeetCode</a> 
-    and read tech articles
-  </li>
-</ul>
+<div align="center">
+  <!-- Previous content remains the same -->
+
+  <div align="center" style="display: inline-block; text-align: left;">
+    <ul style="list-style-type: none; margin: 0; padding: 0;">
+      <li>🔭 <strong>Currently working on:</strong> Ecommerce Project</li>
+      <li>🌱 <strong>Currently learning:</strong> Data Structures and Algorithms (DSA)</li>
+      <li>📖 <strong>In my free time:</strong> I solve problems on 
+        <a href="https://leetcode.com/u/emmanuel011/" target="_blank">LeetCode</a> 
+        and read tech articles
+      </li>
+    </ul>
+  </div>
+
+  <!-- Rest of the content remains the same -->
+</div>
 
 ---
 
