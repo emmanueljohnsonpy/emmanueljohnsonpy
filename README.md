@@ -81,7 +81,7 @@
 
 <hr style="width: 50%; margin: 30px auto;">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=800&lines=My+Goals;Feel+free+to+explore+my+repositories+and+reach+out+if+you+want+to+collaborate+or+chat+about+tech!+😊" alt="My Goals Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=800&lines=Feel+free+to+explore+my+repositories;Reach+out+if+you+want+to+collaborate+or+chat+about+tech!+😊" alt="My Goals Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=emmanueljohnsonpy&color=blue&style=flat-square" alt="Profile Views" />
