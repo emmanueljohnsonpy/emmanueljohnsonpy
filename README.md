@@ -13,7 +13,7 @@
 ---
 
 <h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=435&lines=About+Me&repeat=false" alt="About Me Typing SVG" />
+  About Me
 </h2>
 
 <div align="center">
@@ -35,7 +35,7 @@
 ---
 
 <h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=435&lines=Tech+Stack&repeat=false" alt="Tech Stack Typing SVG" />
+  Tech Stack
 </h2>
 
 <p>
@@ -54,7 +54,7 @@
 ---
 
 <h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=435&lines=Connect+with+Me&repeat=false" alt="Connect with Me Typing SVG" />
+  Connect with Me
 </h2>
 
 <p>
