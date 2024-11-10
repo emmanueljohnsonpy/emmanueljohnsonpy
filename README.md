@@ -12,9 +12,9 @@
 
 ---
 
-<h2>
+<h3>
   About Me
-</h2>
+</h3>
 
 <div align="center">
   <!-- Previous content remains the same -->
@@ -34,9 +34,9 @@
 
 ---
 
-<h2>
+<h3>
   Tech Stack
-</h2>
+</h3>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -65,9 +65,9 @@
 
 ---
 
-<h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=435&lines=My+Goals&repeat=false" alt="My Goals Typing SVG" />
-</h2>
+<h3>
+  My Goals
+</h3>
 
 <div align="center">
   
