@@ -12,9 +12,9 @@
 
 ---
 
-<h3>
+<h4>
   About Me
-</h3>
+</h4>
 
 <div align="center">
   <!-- Previous content remains the same -->
@@ -34,9 +34,9 @@
 
 ---
 
-<h3>
+<h4>
   Tech Stack
-</h3>
+</h4>
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -53,9 +53,9 @@
 
 ---
 
-<h2>
+<h4>
   Connect with Me
-</h2>
+</h4>
 
 <p>
   <a href="https://www.linkedin.com/in/emmanuel-johnson-a36b6b2b3/">
@@ -65,9 +65,9 @@
 
 ---
 
-<h3>
+<h4>
   My Goals
-</h3>
+</h4>
 
 <div align="center">
   
