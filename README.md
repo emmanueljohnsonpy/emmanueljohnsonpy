@@ -23,7 +23,7 @@
   
 🔭 **Currently working on:** Ecommerce Project
   
-🌱 **Currently learning:** Data Structures and Algorithms (DSA)
+🌱 **Currently learning:** MongoDB
   
 📖 **In my free time:** I solve problems on [LeetCode](https://leetcode.com/u/emmanuel011/) and read tech articles
 
