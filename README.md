@@ -1,78 +1,68 @@
-<div align="center">
+<div align="center" style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
 
-<h1 align="center">Hai, I'm Emmanuel Johnson</h1>
-
-<p>
-  Welcome to my GitHub! I'm a passionate Python Full Stack Developer with expertise in both front-end and back-end technologies. I'm constantly exploring new tools and frameworks, and I'm always pushing my limits in software development.
-</p>
-
----
-
-<img src="https://i.imgur.com/Ifry5ba.gif" alt="Coding GIF" width="500"/>
-
----
-
-<h2>
-  About Me
-</h2>
-
-<div align="center">
-  <!-- Previous content remains the same -->
-
-<div align="center">
+  <!-- Heading Section -->
+  <h1 style="font-size: 2.5rem; color: #2E8FF7; font-weight: bold; margin-bottom: 20px;">Hi, I'm Emmanuel Johnson</h1>
+  <p style="font-size: 1.2rem; margin-bottom: 30px; max-width: 700px;">
+    Welcome to my GitHub! I'm a passionate Python Full Stack Developer with expertise in both front-end and back-end technologies. 
+    I'm constantly exploring new tools and frameworks, and I'm always pushing my limits in software development.
+  </p>
   
-  **Currently working on:** Ecommerce Project
-  
-  **Currently learning:** MongoDB
-  
-  **In my free time:** I solve problems on [LeetCode](https://leetcode.com/u/emmanuel011/) and read tech articles
+  <hr style="width: 70%; border: 1px solid #ddd; margin: 30px 0;" />
 
-</div>
+  <!-- GIF Section -->
+  <img src="https://i.imgur.com/Ifry5ba.gif" alt="Coding GIF" width="400" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" />
 
-  <!-- Rest of the content remains the same -->
-</div>
+  <hr style="width: 70%; border: 1px solid #ddd; margin: 30px 0;" />
 
----
+  <!-- About Me Section -->
+  <h2 style="color: #2E8FF7; font-size: 2rem; margin-bottom: 20px;">About Me</h2>
+  <div style="font-size: 1.1rem; margin-bottom: 30px;">
+    <p><strong>Currently working on:</strong> Ecommerce Project</p>
+    <p><strong>Currently learning:</strong> MongoDB</p>
+    <p><strong>In my free time:</strong> I solve problems on 
+      <a href="https://leetcode.com/u/emmanuel011/" style="color: #2E8FF7; text-decoration: none; font-weight: bold;">LeetCode</a> and read tech articles.
+    </p>
+  </div>
 
-## Tech Stack
-<p align="center">
- <img src="https://skillicons.dev/icons?i=html,css,js,python,django,postgresql,mongodb,react" width="80%" style="filter: drop-shadow(0 0 10px rgba(0,0,0,0.1));"/>
-</p>
+  <hr style="width: 70%; border: 1px solid #ddd; margin: 30px 0;" />
 
----
+  <!-- Tech Stack Section -->
+  <h2 style="color: #2E8FF7; font-size: 2rem; margin-bottom: 20px;">Tech Stack</h2>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,django,postgresql,mongodb,react" 
+         alt="Tech Stack" width="80%" 
+         style="filter: drop-shadow(0 4px 10px rgba(0,0,0,0.2)); border-radius: 5px;" />
+  </p>
 
-<h2>
-  Connect with Me
-</h2>
+  <hr style="width: 70%; border: 1px solid #ddd; margin: 30px 0;" />
 
-<p>
-  <a href="https://www.linkedin.com/in/emmanuel-johnson-a36b6b2b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+  <!-- Connect with Me Section -->
+  <h2 style="color: #2E8FF7; font-size: 2rem; margin-bottom: 20px;">Connect with Me</h2>
+  <p>
+    <a href="https://www.linkedin.com/in/emmanuel-johnson-a36b6b2b3/" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </p>
 
----
+  <hr style="width: 70%; border: 1px solid #ddd; margin: 30px 0;" />
 
-<h2>
-  My Goals
-</h2>
+  <!-- My Goals Section -->
+  <h2 style="color: #2E8FF7; font-size: 2rem; margin-bottom: 20px;">My Goals</h2>
+  <div style="font-size: 1.1rem;">
+    <p>✔️ Contribute to open-source projects regularly</p>
+    <p>✔️ Complete certifications in Machine Learning, AI</p>
+    <p>✔️ Work on exciting projects that make an impact!</p>
+  </div>
 
-<div align="center">
-  
-   Contribute to open-source projects regularly
-  
-   Complete certifications in Machine Learning, AI
-  
-   Work on exciting projects that make an impact!
+  <hr style="width: 50%; border: 1px solid #ddd; margin: 30px auto;" />
 
-</div>
+  <!-- Typing SVG Section -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=800&lines=Feel+free+to+explore+my+repositories;Reach+out+if+you+want+to+collaborate+or+chat+about+tech!+😊" 
+       alt="My Goals Typing SVG" style="margin: 20px 0;" />
 
-<hr style="width: 50%; margin: 30px auto;">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=800&lines=Feel+free+to+explore+my+repositories;Reach+out+if+you+want+to+collaborate+or+chat+about+tech!+😊" alt="My Goals Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=emmanueljohnsonpy&color=blue&style=flat-square" alt="Profile Views" />
-</p>
+  <!-- Profile Views Counter -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=emmanueljohnsonpy&color=blue&style=flat-square" alt="Profile Views" />
+  </p>
 
 </div>
