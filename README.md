@@ -1,7 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=00ff41&height=250&section=header&text=Emmanuel%20Johnson&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=FFFFFF&rotate=0&descAlign=50&descAlignY=60&desc=Full%20Stack%20Python%20Developer" width="100%"/>
-
-<h1>🖥️ Welcome to My GitHub World!</h1>
+<img src="https://capsule-render.vercel.app/api?type=height=250&section=header&text=Emmanuel%20Johnson&fontSize=70&animation=fadeIn&fontAlignY=40&fontColor=FFFFFF&rotate=0&descAlign=50&descAlignY=60&desc=Full%20Stack%20Python%20Developer" width="100%"/>
 
 <p>
   <img src="https://i.imgur.com/Ifry5ba.gif" alt="Coding GIF" width="500" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
@@ -47,5 +45,4 @@
   <img src="https://komarev.com/ghpvc/?username=emmanueljohnsonpy&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=00ff41&height=100&section=footer&rotate=180" width="100%"/>
 </div>
