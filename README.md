@@ -1,79 +1,55 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=250&section=header&text=Emmanuel%20Johnson&fontSize=70&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<h1 align="center">Hai, I'm Emmanuel Johnson</h1>
-
-<p>
-  Welcome to my GitHub! I'm a passionate Python Full Stack Developer with expertise in both front-end and back-end technologies. I'm constantly exploring new tools and frameworks, and I'm always pushing my limits in software development.
-</p>
-
----
-
-<img src="https://i.imgur.com/Ifry5ba.gif" alt="Coding GIF" width="500"/>
-
----
-
-<h2>
-  About Me
-</h2>
-
-<div align="center">
-  <!-- Previous content remains the same -->
-
-<div align="center">
-  
-🔭 **Currently working on:** Ecommerce Project
-  
-🌱 **Currently learning:** MongoDB
-  
-📖 **In my free time:** I solve problems on [LeetCode](https://leetcode.com/u/emmanuel011/) and read tech articles
-
-</div>
-
-  <!-- Rest of the content remains the same -->
-</div>
-
----
-
-<h2 align="center">🚀 Tech Stack</h2>
+<h2>🚀 Full Stack Python Developer | Tech Innovator</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,postgresql,mongodb,react" />
-</p>
-
----
-
-<h2>
-  Connect with Me
-</h2>
-
-<p>
   <a href="https://www.linkedin.com/in/emmanuel-johnson-a36b6b2b3/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://leetcode.com/u/emmanuel011/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=emmanueljohnsonpy&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </p>
 
----
+## 💡 About Me
 
-<h2>
-  My Goals
-</h2>
+Passionate Python Full Stack Developer with a keen eye for creating robust, scalable web applications. I transform complex problems into elegant, efficient solutions through innovative technology and continuous learning.
 
-<div align="center">
-  
-🎯 Contribute to open-source projects regularly
-  
-📚 Complete certifications in Machine Learning, AI
-  
-💡 Work on exciting projects that make an impact!
+## 🛠️ Tech Stack
 
-</div>
-
-<hr style="width: 50%; margin: 30px auto;">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8FF7&center=true&vCenter=true&width=800&lines=Feel+free+to+explore+my+repositories;Reach+out+if+you+want+to+collaborate+or+chat+about+tech!+😊" alt="My Goals Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=emmanueljohnsonpy&color=blue&style=flat-square" alt="Profile Views" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,react,javascript,html,css,postgresql,mongodb,git,docker" width="80%"/>
 </p>
 
+## 🌟 Current Focus
+
+- 🔭 **Active Project:** Developing an Innovative E-commerce Platform
+- 🌱 **Learning Journey:** Deep Diving into MongoDB Advanced Techniques
+- 💻 **Problem Solving:** Regular LeetCode Challenger
+- 🚀 **Career Goal:** Becoming a Full Stack Technology Architect
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmanueljohnsonpy&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanueljohnsonpy&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
+</p>
+
+## 🏆 Achievements & Certifications
+
+- 🥇 **Open Source Contributor**
+- 📜 **Ongoing Learning:** Machine Learning and AI Certifications
+- 💡 **Innovative Problem Solver**
+
+## 📬 Let's Connect!
+
+Interested in collaboration, tech discussions, or just want to say hi? Feel free to reach out!
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F3FBF&center=true&width=600&lines=Transforming+Ideas+into+Digital+Solutions;Building+Tomorrow's+Technology+Today;Always+Curious+and+Learning+🚀" alt="Typing SVG"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2&height=100&section=footer" width="100%"/>
 </div>
