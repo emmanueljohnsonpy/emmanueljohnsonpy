@@ -21,11 +21,11 @@
 
 <div align="center">
   
-🔭 **Currently working on:** Ecommerce Project
+  **Currently working on:** Ecommerce Project
   
-🌱 **Currently learning:** MongoDB
+  **Currently learning:** MongoDB
   
-📖 **In my free time:** I solve problems on [LeetCode](https://leetcode.com/u/emmanuel011/) and read tech articles
+  **In my free time:** I solve problems on [LeetCode](https://leetcode.com/u/emmanuel011/) and read tech articles
 
 </div>
 
@@ -59,11 +59,11 @@
 
 <div align="center">
   
-🎯 Contribute to open-source projects regularly
+   Contribute to open-source projects regularly
   
-📚 Complete certifications in Machine Learning, AI
+   Complete certifications in Machine Learning, AI
   
-💡 Work on exciting projects that make an impact!
+   Work on exciting projects that make an impact!
 
 </div>
 
