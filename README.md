@@ -5,37 +5,13 @@
  <img src="https://i.imgur.com/Ifry5ba.gif" alt="Coding GIF" width="500" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
 </p>
 
-## 👤 About Me
-<div align="center">
- 
-🔭 **Currently working on:** Ecommerce Project
- 
-🌱 **Currently learning:** MongoDB
- 
-📖 **In my free time:** I solve problems on [LeetCode](https://leetcode.com/u/emmanuel011/) and read tech articles
-</div>
 
-## 🚀 Tech Stack
+## Tech Stack
 <p align="center">
  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,postgresql,mongodb,react" width="80%" style="filter: drop-shadow(0 0 10px rgba(0,0,0,0.1));"/>
 </p>
 
-## 🤝 Connect with Me
-<p align="center">
- <a href="https://www.linkedin.com/in/emmanuel-johnson-a36b6b2b3/">
-   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- </a>
-</p>
 
-## 🎯 My Goals
-<div align="center">
- 
-🎯 Contribute to open-source projects regularly
- 
-📚 Complete certifications in Machine Learning, AI
- 
-💡 Work on exciting projects that make an impact!
-</div>
 
 <hr style="width: 50%; margin: 30px auto; border-top: 2px solid #2E8FF7;"/>
 
