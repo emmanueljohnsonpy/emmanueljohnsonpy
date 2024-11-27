@@ -34,7 +34,7 @@
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">🚀 Tech Stack</h2>
 
 <p align="center">
   <strong>Languages:</strong><br>
@@ -53,7 +53,14 @@
 
 <p align="center">
   <strong>Tools & Platforms:</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,vscode,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,aws,nginx,figma,vscode,docker,linux" />
+</p>
+
+<p align="center">
+  <strong>Additional Skills:</strong><br>
+  <img src="https://img.shields.io/badge/ORM-Object--Relational_Mapping-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web_Development-Full--Stack-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Project-Planning-orange?style=for-the-badge" />
 </p>
 
 ---
