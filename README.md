@@ -1,7 +1,7 @@
 <div align="center" style="font-family: Arial, sans-serif; line-height: 1.8; color: #333;">
 
   <!-- Heading Section -->
-  <h1 style="font-size: 3rem; color: #2E8FF7; font-weight: bold; margin-bottom: 20px;">Hi, I'm Emmanuel Johnson</h1>
+  <h1 style="font-size: 3rem; color: #2E8FF7; font-weight: bold; margin-bottom: 20px;">Hai, I'm Emmanuel Johnson</h1>
   <p style="font-size: 1.5rem; margin-bottom: 30px; max-width: 700px;">
     Welcome to my GitHub! I'm a passionate Python Full Stack Developer with expertise in both front-end and back-end technologies. 
     I'm constantly exploring new tools and frameworks, and I'm always pushing my limits in software development.
