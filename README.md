@@ -10,7 +10,7 @@
   <hr style="width: 70%; border: 1px solid #ddd; margin: 30px 0;" />
 
   <!-- GIF Section -->
-  <img src="https://i.imgur.com/Ifry5ba.gif" alt="Coding GIF" width="500" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" />
+  <!--<img src="https://i.imgur.com/Ifry5ba.gif" alt="Coding GIF" width="500" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" /> -->
 
   <hr style="width: 70%; border: 1px solid #ddd; margin: 30px 0;" />
 
