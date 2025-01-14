@@ -11,7 +11,7 @@
 
   <!-- GIF Section -->
   <!--<img src="https://i.imgur.com/Ifry5ba.gif" alt="Coding GIF" width="500" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" /> -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZiaGc0dzl2YWs2aGlwNXVqenJrZWs3c3A1bDhidGdwdjNhM3Z4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWYwb2Z4dGw5NzJxMWs1d2RhcHUzbmdzbmY2YTF4OW81d25mbjFvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" 
      alt="Coding GIF" width="500" 
      style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" />
 
