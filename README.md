@@ -10,10 +10,8 @@
   <hr style="width: 70%; border: 1px solid #ddd; margin: 30px 0;" />
 
   <!-- GIF Section -->
-  <!--<img src="https://i.imgur.com/Ifry5ba.gif" alt="Coding GIF" width="500" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" /> -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWYwb2Z4dGw5NzJxMWs1d2RhcHUzbmdzbmY2YTF4OW81d25mbjFvYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif" 
-     alt="Coding GIF" width="500" 
-     style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZsYWdoamtvcWk5bXU4ZXZrZjVmNTBwY2FiNmtpcDBvd3l2bWlpciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s8UHGqq9xqJmwZZtHn/giphy.gif" alt="Coding GIF" width="500" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" /> 
+
 
 
   <hr style="width: 70%; border: 1px solid #ddd; margin: 30px 0;" />
