@@ -11,7 +11,7 @@
 
   <!-- GIF Section -->
   <!--<img src="https://i.imgur.com/Ifry5ba.gif" alt="Coding GIF" width="500" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" /> -->
-  <img src="https://i.pinimg.com/736x/7c/1b/da/7c1bda57c5aa4ab08d1dfbb4ebece4b0.jpg" 
+  <img src="https://i.pinimg.com/originals/fc/21/16/fc2116fb21de12a62d4b36c31bbb1e6f.gif" 
      alt="Coding GIF" width="500" 
      style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" />
 
