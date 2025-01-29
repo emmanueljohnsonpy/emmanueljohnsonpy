@@ -22,9 +22,9 @@
   <h2 style="color: #2E8FF7; font-size: 2.5rem; margin-bottom: 20px;">About Me</h2>
   <div style="font-size: 1.4rem; margin-bottom: 30px;">
     <p><strong>Currently working on:</strong> Ecommerce Project</p>
-    <p><strong>Currently learning deeply:</strong> Data Structures and Algorithms (DSA), Python, SQL, Django ORM, React, and Django.</p>
+    <p><strong>Currently learning deeply:</strong> Python, Django, SQL, Django ORM, Data Structures and Algorithms (DSA), React.</p>
     <p><strong>In my free time:</strong> I solve problems on 
-      <a href="https://leetcode.com/u/emmanuel011/" style="color: #2E8FF7; text-decoration: none; font-weight: bold;">LeetCode</a> and read tech articles.
+      <a href="https://leetcode.com/u/emmanuel011/" style="color: #2E8FF7; text-decoration: none; font-weight: bold;">LeetCode</a> 
     </p>
   </div>
 
