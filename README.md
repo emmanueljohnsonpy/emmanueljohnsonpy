@@ -54,7 +54,6 @@
   <h2 style="color: #2E8FF7; font-size: 2.5rem; margin-bottom: 20px;">My Goals</h2>
   <div style="font-size: 1.4rem;">
     <p>Contribute to open-source projects regularly</p>
-    <p>Complete certifications in Machine Learning, AI</p>
     <p>Work on exciting projects that make an impact!</p>
   </div>
 
